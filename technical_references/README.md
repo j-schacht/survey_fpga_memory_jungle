@@ -20,7 +20,7 @@ List of all considered datasheets, user manuals, product tables, etc. provided b
 | AMD/Xilinx 		| Virtex-6 FPGA Memory Resources											                    | [Link](https://docs.xilinx.com/v/u/en-US/ug363) |
 | AMD/Xilinx 		| Virtex-6 FPGA Data Sheet: DC and Switching Characteristics				      | [Link](https://docs.xilinx.com/v/u/en-US/ds152) |
 | AMD/Xilinx 		| Virtex-6 FPGA DSP48E1 Slice												                      | [Link](https://docs.xilinx.com/v/u/en-US/ug369) |
-| AMD/Xilinx 		| Virtex-6 Product Table													                        | [Link](https://www.xilinx.com/content/dam/xilinx/support/documents/selection-guides/virtex6-product-table.pdf) |
+| AMD/Xilinx 		| Virtex-6 Product Table													                        | [Link](https://docs.xilinx.com/v/u/en-US/virtex6-product-table) |
 | AMD/Xilinx 		| Virtex-6 FPGA Memory Interface Solutions									              | [Link](https://docs.xilinx.com/v/u/en-US/ds186) |
 | AMD/Xilinx 		| 7 Series FPGAs Data Sheet: Overview										                  | [Link](https://docs.xilinx.com/v/u/en-US/ds180_7Series_Overview) |
 | AMD/Xilinx 		| 7 Series FPGAs Memory Resources											                    | [Link](https://docs.xilinx.com/v/u/en-US/ug473_7Series_Memory_Resources) |
@@ -45,8 +45,8 @@ List of all considered datasheets, user manuals, product tables, etc. provided b
 | Intel			    | Stratix III Device Handbook, Volumes 1 & 2 								              | [Link](https://cdrdv2-public.intel.com/654126/stratix3_handbook.pdf) |
 | Intel			    | Stratix IV Device Handbook, Volume 1 										                | [Link](https://cdrdv2-public.intel.com/654799/stratix4_handbook.pdf) |
 | Intel			    | Stratix V Device Handbook Volume 1: Device Interfaces and Integration 	| [Link](https://cdrdv2-public.intel.com/666675/stx5_core-683665-666675.pdf) |
-| Intel			    | Intel Stratix 10 GX/SX Product Table 										                | [Link](https://cdrdv2-public.intel.com/652414/stratix-10-dx-product-table.pdf) |
-| Intel			    | Intel Stratix 10 MX (DRAM System-in-Package) Product Table 				      | [Link](https://cdrdv2-public.intel.com/626393/intel-stratix-10-nx-product-table.pdf) |
+| Intel			    | Intel Stratix 10 GX/SX Product Table 										                | [Link](https://cdrdv2-public.intel.com/652478/stratix-10-product-table.pdf) |
+| Intel			    | Intel Stratix 10 MX (DRAM System-in-Package) Product Table 				      | [Link](https://cdrdv2-public.intel.com/652458/stratix-10-mx-product-table.pdf) |
 | Intel			    | Intel Stratix 10 Embedded Memory User Guide 								            | [Link](https://cdrdv2-public.intel.com/780904/ug-s10-memory-683423-780904.pdf) |
 | Intel			    | Intel Cyclone 10 LP Core Fabric and General Purpose I/Os Handbook 		  | [Link](https://cdrdv2-public.intel.com/667056/c10lp-51003-683777-667056.pdf) |
 | Intel			    | Intel Cyclone 10 LP Device Datasheet 										                | [Link](https://cdrdv2-public.intel.com/666518/c10lp-51002-683251-666518.pdf) |
